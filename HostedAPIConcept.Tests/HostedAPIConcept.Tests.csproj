@@ -52,7 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HostedAPIConcept\www.csproj">
+    <ProjectReference Include="..\www\www.csproj">
       <Project>{7B5E43E9-1F2C-4C96-BCD6-40A19C6A5339}</Project>
       <Name>www</Name>
     </ProjectReference>
