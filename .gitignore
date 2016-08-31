@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HostedAPIConcept/bin
+/HostedAPIConcept/obj/Debug
+/HostedAPIConcept.Tests/obj/Debug
+/packages
+/.vs
