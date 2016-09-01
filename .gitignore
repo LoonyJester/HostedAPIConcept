@@ -7,3 +7,8 @@
 /HostedAPIConcept.Tests/obj/Debug
 /packages
 /.vs
+/HostedAPIConcept.Tests/bin/Debug
+/HostedAPIConcept.Tests/obj/Release
+/www/obj/Release
+/www/Properties/PublishProfiles
+/www/www.csproj.user
